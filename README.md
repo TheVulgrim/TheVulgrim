@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning C <br>🎯 Goals: Game Dev and Software Engineer</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2021<br>📚 Currently I have Worked Upon A Ai Assistant Using Ollama , A Flask App , A CLI Tool And A Video Downloader <br>🎯 Goals: Game Dev and Software Engineer</p>
 
 ###
 
